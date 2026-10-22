@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0414-third-maximum-number](https://github.com/Ganesh9823/PMIS-LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0495-teemo-attacking](https://github.com/Ganesh9823/PMIS-LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0575-distribute-candies](https://github.com/Ganesh9823/PMIS-LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Ganesh9823/PMIS-LeetCode/tree/main/0605-can-place-flowers/) | Easy |
@@ -43,6 +44,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0414-third-maximum-number](https://github.com/Ganesh9823/PMIS-LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Ganesh9823/PMIS-LeetCode/tree/main/0888-fair-candy-swap/) | Easy |
 ## String
 | Problem Name | Difficulty |
